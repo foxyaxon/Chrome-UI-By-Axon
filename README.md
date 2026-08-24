@@ -44,6 +44,8 @@ SCREENSHOTS
 <img width="1919" height="914" alt="Screenshot 2026-08-24 100918" src="https://github.com/user-attachments/assets/80a41564-5f42-441c-98f3-fbe5cd043e05" /><img width="1919" height="915" alt="Screenshot 2026-08-24 101012" src="https://github.com/user-attachments/assets/02317550-073f-4790-b49e-1d177d237fdc" />
 
 You Can Upload Your Own Wallpaper ! (Live,Image,Solid)
+Fully Customizable 
+<img width="415" height="908" alt="Screenshot 2026-08-24 101319" src="https://github.com/user-attachments/assets/8e5e9d06-de8e-4624-9935-9c20bb5ba1f2" />
 
 
 
