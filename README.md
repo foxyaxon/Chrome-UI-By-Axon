@@ -1,5 +1,5 @@
 _______________
-AXON UI 28.0.0
+AXON UI (Release)
 ---------------
 Premium UI Experience
 Transform your Chrome into a clean, immersive and personalized experience with Axon UI.
