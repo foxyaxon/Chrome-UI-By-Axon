@@ -45,7 +45,6 @@ Axon UI is currently installed manually using Chrome's Developer Mode.
 Download the latest Axon UI ZIP from the Releases section of this repository.
 
 Extract the ZIP file to a permanent location on your computer.
-
 For example:
 
 Documents/
@@ -62,9 +61,7 @@ Documents/
 ***2. Open Chrome Extensions***
 
 Open Google Chrome and enter:
-
 chrome://extensions
-
 Press Enter.
 
 ***3. Enable Developer Mode***
@@ -74,29 +71,18 @@ Enable Developer mode using the toggle in the top-right corner.
 <img width="1917" height="195" alt="Screenshot 2026-08-24 111725" src="https://github.com/user-attachments/assets/673434c0-0c41-42d3-a5c4-f307076cdac1" />
 
 You should now see:
-
 Load unpacked
-
 ***4. Load Axon UI***
-
 Click Load unpacked.
-
 Select the folder containing:
-
 manifest.json
-
-For example:
-
-Axon UI/Main File/
+For example:Axon UI/Main File/
 
 Do not select the ZIP file itself.
 
 ***5. Open a New Tab***
 
-Press:
-
-Ctrl + T
-
+Press:Ctrl + T
 or click Chrome's + button.
 
 Axon UI should now replace Chrome's default New Tab page.
