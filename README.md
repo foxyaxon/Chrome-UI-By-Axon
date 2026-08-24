@@ -45,7 +45,8 @@ SCREENSHOTS
 
 You Can Upload Your Own Wallpaper ! (Live,Image,Solid)
 Fully Customizable 
+------------
 <img width="415" height="908" alt="Screenshot 2026-08-24 101319" src="https://github.com/user-attachments/assets/8e5e9d06-de8e-4624-9935-9c20bb5ba1f2" />
-
+------------
 
 
